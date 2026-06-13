@@ -1,0 +1,4 @@
+1. based on my output.svg i dont think daily temperatures are a good way to predict population density. The points doesnt show any upward or downward. it only shows a cloud. most cities are just spread widely across the plot. 
+2. Working with compressed files might be faster because the computer doesnt have to read that much data from the disk. 
+Disk reading is slower than decompression. so even though the file have be decompressed when the program runs, the total time is still lower. 
+Compressed files also use less storage. so it can be easier to load from slower drives.
